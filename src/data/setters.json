@@ -1,0 +1,38 @@
+[
+  {
+    "id": "alex-rodriguez",
+    "name": "Alex Rodríguez",
+    "photo": "/setters/alex.jpg",
+    "role": "Setter"
+  },
+  {
+    "id": "maria-gonzalez",
+    "name": "María González",
+    "photo": "/setters/maria.jpg",
+    "role": "Setter"
+  },
+  {
+    "id": "juan-perez",
+    "name": "Juan Pérez",
+    "photo": "/setters/juan.jpg",
+    "role": "Setter"
+  },
+  {
+    "id": "lucia-martinez",
+    "name": "Lucía Martínez",
+    "photo": "/setters/lucia.jpg",
+    "role": "Setter"
+  },
+  {
+    "id": "carlos-sanchez",
+    "name": "Carlos Sánchez",
+    "photo": "/setters/carlos.jpg",
+    "role": "Setter"
+  },
+  {
+    "id": "sofia-ramirez",
+    "name": "Sofía Ramírez",
+    "photo": "/setters/sofia.jpg",
+    "role": "Setter"
+  }
+]

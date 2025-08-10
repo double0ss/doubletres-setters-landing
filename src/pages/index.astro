@@ -1,0 +1,13 @@
+---
+// Simple index: redirect to the first setter page
+import setters from '../data/setters.json';
+const first = setters[0];
+---
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=/setter/{first.id}" />
+  </head>
+  <body>
+    Redirecting...
+  </body>
+</html>
