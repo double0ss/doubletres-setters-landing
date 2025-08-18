@@ -265,7 +265,7 @@ a:hover {
 
 /* Footer */
 .site-footer {
-  background-color: #f5f7fa;
+  background-color: #0a1f38;
   padding: 5rem 0 0;
   border-top: 1px solid rgba(0, 0, 0, 0.05);
 }
@@ -286,10 +286,12 @@ a:hover {
   height: 28px;
   margin-bottom: 1.5rem;
   opacity: 0.9;
+  width: 200px;
+  height: auto;
 }
 
 .footer-logo p {
-  color: #6e6e73;
+  color: #fff;
   font-size: 1rem;
   line-height: 1.5;
   max-width: 280px;
@@ -305,7 +307,7 @@ a:hover {
 .footer-column h3 {
   font-size: 0.875rem;
   font-weight: 600;
-  color: #1d1d1f;
+  color: #fff;
   margin-bottom: 1.5rem;
   letter-spacing: 0.02em;
   text-transform: uppercase;
@@ -313,7 +315,7 @@ a:hover {
 
 .footer-column a {
   display: block;
-  color: #424245;
+  color: #fff;
   font-size: 0.9375rem;
   margin-bottom: 0.75rem;
   transition: var(--transition);
@@ -329,6 +331,41 @@ a:hover {
   margin-top: 1.5rem;
 }
 
+.social-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 999px;
+  background: #ffffff;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+}
+
+.social-icon {
+  width: 18px;
+  height: 18px;
+  color: #1d1d1f;
+}
+
+/* Brand colors on hover */
+.social-links a[aria-label="LinkedIn"]:hover .social-icon { color: #0A66C2; }
+.social-links a[aria-label="Instagram"]:hover .social-icon { color: #E4405F; }
+.social-links a[aria-label="Facebook"]:hover .social-icon { color: #1877F2; }
+.social-links a[aria-label="WhatsApp"]:hover .social-icon { color: #25D366; }
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 .footer-bottom {
   padding: 1.5rem 0;
   border-top: 1px solid rgba(0, 0, 0, 0.05);
@@ -341,7 +378,7 @@ a:hover {
 
 .footer-bottom p {
   font-size: 0.8125rem;
-  color: #86868b;
+  color: #fff;
   margin: 0;
 }
 
@@ -352,7 +389,7 @@ a:hover {
 
 .legal-links a {
   font-size: 0.8125rem;
-  color: #515154;
+  color: #fff;
 }
 
 /* Responsive */

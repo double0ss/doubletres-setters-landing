@@ -1,38 +1,31 @@
 [
   {
-    "id": "alex-rodriguez",
-    "name": "Alex Rodríguez",
-    "photo": "/setters/alex.jpg",
-    "role": "Setter"
+    "id": "gabi",
+    "name": "Gabriela Oña Ruiz",
+    "photo": "/setters/gabi.jpeg",
+    "role": "Asesora comercial",
+    "email": "gona@doubletres.com",
+    "phone": "+593 96 351 6419",
+    "linkedin": "https://www.linkedin.com/in/gabriela-o%C3%B1a-ruiz/",
+    "instagram": "https://www.instagram.com/soy_gona/",
+    "facebook": "https://www.facebook.com/estrategadigitalgabriela/",
+    "whatsapp": "+593 96 351 6419",
+    "email_link": "mailto:gona@doubletres.com",
+    "whatsapp_link": "https://wa.me/593963516419?text=Hola%20Gabriela%2C%20me%20gustar%C3%ADa%20agendar%20una%20consultor%C3%ADa"
   },
+
   {
-    "id": "maria-gonzalez",
-    "name": "María González",
-    "photo": "/setters/maria.jpg",
-    "role": "Setter"
-  },
-  {
-    "id": "juan-perez",
-    "name": "Juan Pérez",
-    "photo": "/setters/juan.jpg",
-    "role": "Setter"
-  },
-  {
-    "id": "lucia-martinez",
-    "name": "Lucía Martínez",
-    "photo": "/setters/lucia.jpg",
-    "role": "Setter"
-  },
-  {
-    "id": "carlos-sanchez",
-    "name": "Carlos Sánchez",
-    "photo": "/setters/carlos.jpg",
-    "role": "Setter"
-  },
-  {
-    "id": "sofia-ramirez",
-    "name": "Sofía Ramírez",
-    "photo": "/setters/sofia.jpg",
-    "role": "Setter"
+    "id": "annie",
+    "name": "Annie Marín",
+    "photo": "/setters/annie.png",
+    "role": "Asesora comercial",
+    "email": "azmarin@doubletres.com",
+    "phone": "+507 6601-0030",
+    "linkedin": "https://www.linkedin.com/in/annie-marin",
+    "instagram": "https://www.instagram.com/annie.marin.9/",
+    "facebook": "https://www.facebook.com/annie.marin.9",
+    "whatsapp": "+507 6601-0030",
+    "email_link": "mailto:azmarin@doubletres.com",
+    "whatsapp_link": "https://wa.me/593963516419?text=Hola%20Annie%2C%20me%20gustar%C3%ADa%20agendar%20una%20consultor%C3%ADa"
   }
 ]
