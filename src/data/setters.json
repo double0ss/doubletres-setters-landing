@@ -15,6 +15,21 @@
   },
 
   {
+    "id": "yanis",
+    "name": "Yanis Michell Navarro",
+    "photo": "/setters/yanis.jpeg",
+    "role": "Asesora comercial",
+    "email": "yaninavarrop@doubletres.com",
+    "phone": "+57 301 5304381",
+    "linkedin": "https://www.linkedin.com/in/yaniris-navarro-pe%C3%B1a-3874b5125/",
+    "instagram": "#",
+    "facebook": "https://www.facebook.com/profile.php?id=61578565806885",
+    "whatsapp": "+57 301 5304381",
+    "email_link": "mailto:yaninavarrop@doubletres.com",
+    "whatsapp_link": "https://wa.me/573015304381?text=Hola%20Gabriela%2C%20me%20gustar%C3%ADa%20agendar%20una%20consultor%C3%ADa"
+  },
+
+  {
     "id": "annie",
     "name": "Annie Marín",
     "photo": "/setters/annie.png",
@@ -28,4 +43,6 @@
     "email_link": "mailto:azmarin@doubletres.com",
     "whatsapp_link": "https://wa.me/50766010030?text=Hola%20Annie%2C%20me%20gustar%C3%ADa%20agendar%20una%20consultor%C3%ADa"
   }
+
+  
 ]
